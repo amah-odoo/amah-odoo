@@ -1,10 +1,3 @@
-
-<div class="flex w-full">
-    <img width="30%" class="output" src="https://github-readme-stats.vercel.app/api?username=amah-odoo&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
-    <img width="30%" class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amah-odoo&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages">
-</div>
-
-
 **About me**
 
 <p><em>R&D Software Developer at <a href="https://github.com/odoo">Odoo</a></p>
